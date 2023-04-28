@@ -18,3 +18,4 @@ tqdm
 vedo
 pytest-astropy
 pytest-sugar
+pythea
