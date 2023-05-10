@@ -19,3 +19,4 @@ vedo
 pytest-astropy
 pytest-sugar
 pythea
+opencv-python-headless
